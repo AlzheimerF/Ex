@@ -4,3 +4,6 @@ ToDo/migrations
 venv
 users/migrations
 /.idea
+ToDo/__pycache__/
+my_site/__pycache__/
+users/__pycache__/
